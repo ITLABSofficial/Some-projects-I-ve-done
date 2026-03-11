@@ -3,7 +3,7 @@ Welcome to my project showcase. This repository serves as a portfolio of my engi
 🛡️ Defense & Aerospace: Duman FC (UAV Solutions)
 Developed for TEKNOFEST Fixed-Wing UAV Competitions
 
-Duman FC is a custom flight control ecosystem designed for high-reliability missions.
+Duman FC is a custom flight control uı and app with ecosystem designed for high-reliability missions.
 
 Hardware: Custom-designed PCB/Motherboard (Hermes F405 based architecture).
 
